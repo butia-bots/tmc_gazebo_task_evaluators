@@ -19,5 +19,5 @@
   <run_depend>gazebo_ros</run_depend>
   <run_depend>std_msgs</run_depend>
   <run_depend>rosgraph_msgs</run_depend>
-  <test_depend>hsrb_gazebo_launch</test_depend>
+  <!--test_depend>hsrb_gazebo_launch</test_depend-->
 </package>
